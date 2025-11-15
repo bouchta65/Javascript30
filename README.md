@@ -18,5 +18,3 @@ Chaque défi est basé sur un projet pratique qui aborde différents concepts te
 - Renforcer ma logique et mes bases en JavaScript  
 - Explorer des fonctionnalités modernes d’ES6+  
 - Créer des projets interactifs à partir de zéro
-
----
